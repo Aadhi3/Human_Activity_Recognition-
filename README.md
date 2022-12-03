@@ -1,9 +1,9 @@
 # Human_Activity_Recognition-
 Traits of LRCN over LSTM with Fast and optimum code  
 
-!pip install --upgrade moviepy
-!pip install moviepy
-!pip install pafy youtube-dl moviepy
+Libraries include
+
+
 
 # Import the required libraries.
 import os
